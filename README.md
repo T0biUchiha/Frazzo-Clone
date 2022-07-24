@@ -29,7 +29,7 @@ This is the beautiful main landing page of website. Here clicking on any option 
 
 This page is functional and responsive.
 
-![Homepage ](../screenshots/homepage.png)
+![Homepage ](../../screenshots/homepage.png)
 
 #### Search bar -
 

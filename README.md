@@ -29,24 +29,24 @@ This is the beautiful main landing page of website. Here clicking on any option 
 
 This page is functional and responsive.
 
-![Homepage ](./screenshots/homepage.png)
+![Homepage ](/screenshots/homepage.png)
 
 #### Search bar -
 
 For user convenience, If user want to search for any particular product he can search it directly on search bar teh products related to it will be displayed 
 below the search box.
 
-![Search bar](./screenshots/search.png)
+![Search bar](/screenshots/search.png)
 
 #### Products Page -
 
 Here user can browse and add items to the cart by clicking on the Add to Cart button and finad all information about the product which he wants to buy.
 
-![Products Page](./screenshots/productPage.png)
+![Products Page](/screenshots/productPage.png)
 
 #### Cart Page -
 
 Here all the products added to the cart will be shown. On this page, you can also remove the items. By clicking on the “CHECKOUT” button 
 you will be redirected to the checkout page.
 
-![Cart Page](./screenshots/Cart.png)
+![Cart Page](/screenshots/Cart.png)
